@@ -10,16 +10,17 @@
 
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
 
-I build multilingual chatbots, learning platforms, and scalable systems that support Afghan students, universities, and organizations. My work combines AI, clean backend development, data systems, and web engineering.
+AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — empowering Afghanistan with technology and AI.
 
 ---
 
 ## 🔭 Current Focus
 
-- **[Lalah](https://senf.af/lalah.html)** — Multilingual AI Educational Chatbot for Afghan students   
+- **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students   
 - **[Kankor.af](https://kankor.af/)** — Scalable digital education platform for Kankor exam preparation  
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
-- **Cloud Automation** — Deploying AI chatbots on AWS EC2 with Redis, ChromaDB, Flask, FastAPI  
+- **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
+- **Messaging Integrations** — WhatsApp & Telegram bot deployment via APIs, webhooks, and cloud infrastructure 
 - **Content & Data Workflows** — Managing LMS content, pipelines, reporting, and automation  
 
 ---
@@ -110,61 +111,60 @@ I build multilingual chatbots, learning platforms, and scalable systems that sup
 ## 🚀 Featured Projects
 
 ### **Lalah — Multilingual AI Chatbot**
-A production-ready chatbot for Afghan students using LangChain, Redis, ChromaDB, OpenAI/Gemini, Flask, and AWS. Works on WhatsApp and web.  
-👉 [Visit Lalah](https://senf.af/lalah.html)
+A custom built educational chatbot for students powered by LangChain, Redis, ChromaDB, RAG, OpenAI/Gemini, Flask, and AWS. Culturally aware, curriculum aligned, and privacy first; Lalah respects Afghan values and Islamic principles while delivering personalized learning in Dari, Pashto, and English.
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/78knlw)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lalah_Senf_bot)
+[![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorbot.senf.af/)
 
 ---
 
-### **Kankor.af — National Exam Prep Platform**  
-Smart learning and exam preparation for thousands of Kankor students.  
-👉 [Visit Kankor.af](https://kankor.af/)
-
----
-
-### **Senf.af — LMS for Afghan Schools**  
-A structured LMS for curriculum content, reporting, student learning, and automation.  
+### **Senf.af — LMS for Students**  
+A structured LMS for curriculum content, reporting, student learning, learning materials in Dari and Pashto from Grade 7 to Grade 12.
 👉 [Visit Senf.af](https://senf.af/)
 
 ---
 
+### **Kankor.af — LMS for Kankor Students**  
+A digital platform and application for students providing Kankor exam preparation, mock exams, past papers, and progress tracking.  
+👉 [Visit Kankor.af](https://kankor.af/)
+
+---
+
 ### **Danalearn.org — Education LMS**  
-Managing large bilingual content libraries, improving learning flows, and supporting digital classrooms.  
+Managing large bilingual content libraries, improving learning flows, and providing free access to education.  
 👉 [Visit Danalearn](https://www.danalearn.org/)
 
 ---
 
 ### **Afghan Community & Welfare Centre Website**  
-Modern bilingual website for Afghan community services in the UK.  
+Modern website for Afghan community services in the UK.  
 👉 [Visit Afghan-CW](https://www.afghan-cw.org.uk/)
 
 ---
 
-### **Lapis Group Corporate Website**  
-Project work on corporate web pages and content.  
+### **Lapis Group Website**  
+Project work on web pages, improving and making changes and content.  
 👉 [Visit Lapis Group](https://lapis-group.com/)
 
 ---
 
 ### **Pharmacy Management Desktop Application**  
-A standalone Windows application for pharmacy operations and inventory.
-
----
-
-### **HMIS for New Kabul Bank**
-Internal health management and information system software.
+A standalone Windows application for pharmacy operations and inventory used sql server with C#.
 
 ---
 
 ## 📚 Education & Professional Background  
 
-- **BSc in Computer Science**, University of Allahabad (2018)  
-- **6+ years** in software engineering, education technology, AI systems, and data management  
+- **BCS in Computer Science**, University of Allahabad-India (Topper of the Batch)  
+- **6+ years** in software engineering, AI systems, EdTech, Web development, Information and data management  
 - Experience in:
   - AI chatbot development  
   - Data pipelines and reporting  
   - LMS administration  
   - Backend systems  
   - Web development  
+  - Data collection
   - Database and information management  
 
 ---
@@ -187,10 +187,12 @@ Internal health management and information system software.
 
 ## 🌍 Values & Interests
 
-- Building accessible learning tools for Afghan students  
-- Using AI to support education in low-resource environments  
-- Writing clean, simple code that others can maintain  
-- Sharing knowledge and helping students learn  
+- Creating accessible learning tools for students
+- Using AI to improve education in low-resource settings
+- Writing clean, simple, and maintainable code
+- Sharing knowledge and supporting student learning
+- Helping businesses automate workflows and reduce manual work
+- Supporting organizations in adopting practical, reliable technology solutions
 
 ---
 
