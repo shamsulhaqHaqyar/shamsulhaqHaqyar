@@ -172,15 +172,15 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamsulhaqHaqyar&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=shamsulhaqHaqyar&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaqHaqyar&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaqHaqyar&show_icons=true&theme=default&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaqHaqyar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaqHaqyar&layout=compact&cache_seconds=86400" />
 </p>
 
 ---
