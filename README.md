@@ -120,7 +120,7 @@ A custom built educational chatbot for students powered by LangChain, Redis, Chr
 ---
 
 ### **Senf.af — LMS for Students**  
-A structured LMS for curriculum content, reporting, student learning, learning materials in Dari and Pashto from Grade 7 to Grade 12.
+A structured LMS for curriculum content, activities, student learning, learning materials in Dari and Pashto from Grade 7 to Grade 12.
 👉 [Visit Senf.af](https://senf.af/)
 
 ---
@@ -138,13 +138,13 @@ Managing large bilingual content libraries, improving learning flows, and provid
 ---
 
 ### **Afghan Community & Welfare Centre Website**  
-Modern website for Afghan community services in the UK.  
+Designed and developed entirely in Wix, creating a modern platform for community services and information in the UK (United Kingdom).  
 👉 [Visit Afghan-CW](https://www.afghan-cw.org.uk/)
 
 ---
 
 ### **Lapis Group Website**  
-Project work on web pages, improving and making changes and content.  
+Worked with the team to enhance the website’s design and functionality, improve WordPress performance, and implement search features, filters, and technical optimizations.
 👉 [Visit Lapis Group](https://lapis-group.com/)
 
 ---
