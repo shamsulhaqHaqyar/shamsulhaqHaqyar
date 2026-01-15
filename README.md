@@ -154,7 +154,7 @@ Worked with the team to enhance the website’s design and functionality, improv
 ---
 
 ### **Pharmacy Management System**  
-A comprehensive Windows desktop application for end-to-end pharmacy operations. Features include inventory tracking, stock alerts, sales management, purchase records, expiry date monitoring, and detailed reporting — designed to streamline daily pharmacy workflows.
+A comprehensive Windows desktop application for end-to-end pharmacy operations. Features include inventory tracking, doctor and patient management, sales management, purchase records, and detailed reporting; designed to streamline daily pharmacy workflows.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
@@ -174,7 +174,7 @@ Designed and developed a modern, responsive website for Bright Vision Consultanc
 ---
 
 ### **All-in-One Unit Converter**  
-A comprehensive Windows desktop application built with C# and SQL Server for universal unit conversions. Supports measurements across multiple categories including length, weight, temperature, volume, area, speed, and more — all within a clean, user-friendly interface.
+A comprehensive Windows desktop application built with C# and SQL Server for universal unit conversions. Supports measurements across multiple categories including length, weight, temperature, volume, area, speed, and more; all within a clean, user-friendly interface.
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
