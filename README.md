@@ -188,12 +188,21 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 
 ## 🌍 Languages
 
-![Dari](https://img.shields.io/badge/Dari-Native-success?style=for-the-badge)
-![Pashto](https://img.shields.io/badge/Pashto-Native-success?style=for-the-badge)
-![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
-![Urdu](https://img.shields.io/badge/Urdu-Fluent-blue?style=for-the-badge)
-![Hindi](https://img.shields.io/badge/Hindi-Medium-yellow?style=for-the-badge)
-![Arabic](https://img.shields.io/badge/Arabic-Medium-yellow?style=for-the-badge)
+<p align="center">
+  <strong>Native:</strong><br/>
+  <img src="https://img.shields.io/badge/Dari-●●●●●-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pashto-●●●●●-success?style=flat-square" />
+</p>
+<p align="center">
+  <strong>Fluent:</strong><br/>
+  <img src="https://img.shields.io/badge/English-●●●●○-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Urdu-●●●●○-blue?style=flat-square" />
+</p>
+<p align="center">
+  <strong>Medium:</strong><br/>
+  <img src="https://img.shields.io/badge/Hindi-●●●○○-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/Arabic-●●●○○-yellow?style=flat-square" />
+</p>
 
 ---
 
