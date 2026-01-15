@@ -178,15 +178,15 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shamsulhaqHaqyar&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shamsulhaqHaqyar&theme=default" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaqHaqyar&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shamsulhaqHaqyar&show_icons=true&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaqHaqyar&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shamsulhaqHaqyar&layout=compact&theme=default&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
@@ -208,6 +208,8 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 ![Pashto](https://img.shields.io/badge/Pashto-Native-success?style=for-the-badge)
 ![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
 ![Urdu](https://img.shields.io/badge/Urdu-Fluent-blue?style=for-the-badge)
+![Hindi](https://img.shields.io/badge/Hindi-Medium-yellow?style=for-the-badge)
+![Arabic](https://img.shields.io/badge/Arabic-Medium-yellow?style=for-the-badge)
 
 ---
 
