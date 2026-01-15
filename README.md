@@ -153,8 +153,32 @@ Worked with the team to enhance the website’s design and functionality, improv
 
 ---
 
-### **Pharmacy Management Desktop Application**  
-A standalone Windows application for pharmacy operations and inventory used sql server with C#.
+### **Pharmacy Management System**  
+A comprehensive Windows desktop application for end-to-end pharmacy operations. Features include inventory tracking, stock alerts, sales management, purchase records, expiry date monitoring, and detailed reporting — designed to streamline daily pharmacy workflows.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+
+---
+
+### **Bright Vision Consultancy Website**  
+Designed and developed a modern, responsive website for Bright Vision Consultancy showcasing their services, portfolio, and company profile. Built with clean UI/UX principles to ensure professional presentation and seamless user experience.
+
+👉 [Visit Website](https://www.bv-af.com/)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+---
+
+### **All-in-One Unit Converter**  
+A comprehensive Windows desktop application built with C# and SQL Server for universal unit conversions. Supports measurements across multiple categories including length, weight, temperature, volume, area, speed, and more — all within a clean, user-friendly interface.
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 ---
 
