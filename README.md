@@ -172,6 +172,7 @@ A standalone Windows application for pharmacy operations and inventory used sql 
   - Web development  
   - Data collection
   - Database and information management  
+  - Education Technology
 
 ---
 
