@@ -32,7 +32,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,linux,git,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=python,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,linux,github,wordpress" />
 </p>
 
 ---
