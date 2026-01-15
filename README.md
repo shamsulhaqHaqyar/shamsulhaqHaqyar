@@ -8,6 +8,10 @@
   <img src="https://komarev.com/ghpvc/?username=shamsulhaqHaqyar&style=flat-square&color=blue" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+LMS+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" /></a>
+</p>
+
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
 
 AI Engineer and Software Developer specializing in multilingual chatbots, digital platforms, and intelligent systems — empowering Afghanistan with technology and AI.
@@ -156,7 +160,9 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 
 ## 📚 Education & Professional Background  
 
-- **BCS in Computer Science**, University of Allahabad-India (Topper of the Batch)  
+- 🎓 **BCS in Computer Science**, University of Allahabad-India — **🏅 Topper of the Batch**
+- 📜 **Leadership & Communication**, Headway International-Uzbekistan (2021)
+- 💻 **Web and Database**, Excellent Start Academy-Pakistan (2014-2015)
 - **6+ years** in software engineering, AI systems, EdTech, Web development, Information and data management  
 - Experience in:
   - AI chatbot development  
@@ -196,14 +202,26 @@ A standalone Windows application for pharmacy operations and inventory used sql 
 
 ---
 
+## 🌍 Languages
+
+![Dari](https://img.shields.io/badge/Dari-Native-success?style=for-the-badge)
+![Pashto](https://img.shields.io/badge/Pashto-Native-success?style=for-the-badge)
+![English](https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge)
+![Urdu](https://img.shields.io/badge/Urdu-Fluent-blue?style=for-the-badge)
+
+---
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shams-haqyar-373020136/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shamsulhaqHaqyar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shams.haqyar786@gmail.com)
 
 ---
 
-> "Technology should reduce barriers, not create new ones."
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Technology%20should%20reduce%20barriers%2C%20not%20create%20new%20ones.&author=Shams%20Haqyar" />
+</p>
 
 <!-- Footer -->
 <p align="center">
