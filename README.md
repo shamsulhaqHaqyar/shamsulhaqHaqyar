@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  lines=AI+Engineer+%7C+6%2B+Years;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" />
 </p>
 
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
