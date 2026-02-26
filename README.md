@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group
+  lines=AI+Engineer+%7C+6%2B+Years;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group
 </p>
 
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
