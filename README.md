@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+LMS+Specialist;Team+Lead+%40+Lapis+Group" alt="Typing SVG" /></a>
+  lines=AI+Engineer+%7C+6%2B+Years+Experience;Multilingual+Chatbot+Developer;EdTech+%26+HR+Tech+Specialist;Team+Lead+%40+Lapis+Group
 </p>
 
 # Shams Haqyar — AI Engineer, Software Developer & Web Technologist
@@ -25,6 +25,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
 - **Cloud Automation** — Deploying AI chatbots on AWS with Redis, ChromaDB, Flask, FastAPI 
 - **Messaging Integrations** — WhatsApp & Telegram bot deployment via APIs, webhooks, and cloud infrastructure 
+- **HR Automation** — Digital leave management systems with role-based workflows and real-time tracking
 - **Content & Data Workflows** — Managing LMS content, pipelines, reporting, and automation  
 
 ---
@@ -32,7 +33,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,linux,github,wordpress" />
+  <img src="https://skillicons.dev/icons?i=python,php,cs,flask,fastapi,js,html,css,redis,mongodb,mysql,postgres,aws,linux,github,wordpress" />
 </p>
 
 ---
@@ -53,6 +54,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ### **Backend & Programming**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -180,6 +182,18 @@ A comprehensive Windows desktop application built with C# and SQL Server for uni
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
+---
+
+### **Leave Management System — HR Automation**  
+Complete leave management solution for Lapis Group, digitizing paper-based Annex-5 forms into a modern web platform. Features employee self-service portals, automated manager approval workflows, real-time balance tracking for 7 leave types, HR analytics dashboard, and mobile-responsive design serving 60+ employees.
+
+👉 **Live:** [senf.af/leave](https://senf.af/leave)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ---
 
 ## 📚 Education & Professional Background  
