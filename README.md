@@ -21,6 +21,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 ## 🔭 Current Focus
 
 - **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students
+- **[KarwanSeray](https://karwanseray.com)** — Trilingual (Dari, Pashto & English) multi-vendor e-commerce marketplace for Afghanistan
 - **[CLAST AI Engine](https://clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC
 - **[AOU Chatbot](https://chat.afgou.org)** — A production-grade multilingual AI chatbot for Afghanistan Open University students
 - **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
@@ -132,6 +133,26 @@ A custom built educational chatbot for students powered by LangChain, Redis, Chr
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/vye9x1)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Lalah_Senf_bot)
 [![Web App](https://img.shields.io/badge/Web%20App-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tutorbot.senf.af/)
+
+---
+
+### **KarwanSeray — Trilingual E-Commerce Marketplace**
+A full-stack, multi-vendor e-commerce marketplace connecting Afghan sellers with buyers at home and across the diaspora. Fully trilingual in Dari, Pashto & English with complete right-to-left (RTL) support, built mobile-first for low-bandwidth conditions.
+- **Buyer experience:** catalog, search, province/condition filters, cart, geo-aware checkout, ratings & reviews
+- **Custom systems:** digital bargaining engine (offer state machine + price-lock), escrow payments (held/released on delivery), Juma Bazaar vendor trust badge
+- **Seller portal:** verification pipeline with document upload & admin approval gate, listing management, analytics dashboard with sales trends
+- **Built with:** React, Vite, FastAPI, PostgreSQL, SQLAlchemy, Alembic, i18next, Nginx, Gunicorn on Linux (DigitalOcean)
+- **Features:** JWT auth with roles, buyer–seller chat, admin console, HTTPS, automated deployment pipeline
+👉 [Live at karwanseray.com](https://karwanseray.com)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
 
 ---
 
