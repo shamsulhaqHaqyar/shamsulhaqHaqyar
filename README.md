@@ -23,6 +23,7 @@ AI Engineer and Software Developer specializing in multilingual chatbots, digita
 - **[Lalah](https://senf.af/lalah.html)** — Multilingual (Dari, Pashto & English) AI Educational Chatbot for students
 - **[KarwanSeray](https://karwanseray.com)** — Trilingual (Dari, Pashto & English) multi-vendor e-commerce marketplace for Afghanistan
 - **[CLAST AI Engine](https://clast.io)** — Production AI microservice for CLAST.io — Student AI Tutor + Staff Data Chat across Afghanistan and GCC
+- **[Future Bridge International Foundation](https://futurebridgeif.org)** — WordPress Multisite development for a Canadian not-for-profit focused on education access
 - **[AOU Chatbot](https://chat.afgou.org)** — A production-grade multilingual AI chatbot for Afghanistan Open University students
 - **[Kankoristan.af](https://kankoristan.af/)** — Scalable digital education platform for Kankor exam preparation  
 - **[Senf.af](https://senf.af/)** — Scalable digital education platform for learning materials   
@@ -199,6 +200,23 @@ A production-grade multilingual AI chatbot for Afghanistan Open University stude
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![WhatsApp API](https://img.shields.io/badge/WhatsApp%20API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+
+---
+
+### **Future Bridge International Foundation — WordPress Multisite Development**
+Developed a static HTML/CSS/JS website into a custom-built WordPress theme on a Hostinger Multisite network for Future Bridge International Foundation, a Canadian federally incorporated not-for-profit focused on education access. Built a theme from scratch (not a page builder), preserved the original design pixel-for-pixel, and converted all internal links to WordPress-native routing while keeping the network's other subdomain sites untouched.
+
+- **Architecture:** Custom "futurebridge" theme, 14 pages migrated via Custom HTML blocks, `home_url()`-based internal linking
+- **Forms:** 4 live Forminator forms (Volunteer Application with file uploads, Contact, Partner Inquiry, Newsletter) with email notifications
+- **Multisite-safe:** Network-enabled but site-activated only, zero impact on sibling subdomains (`ac.`, `op.`, `apply.`, `portal.`, `scholarship.`, `lms.`)
+- **Debugging:** Diagnosed and fixed Forminator's Select2-based dropdown styling via DevTools-verified CSS targeting
+
+👉 [Visit Future Bridge International Foundation](https://futurebridgeif.org)
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)
 
 ---
 
